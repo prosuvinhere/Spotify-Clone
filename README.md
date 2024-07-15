@@ -7,8 +7,7 @@ A front-end project focused on creating a music player.
 
 **Front-end:** HTML,BootstrapCSS
 
-![Uploading Screenshot 2024-07-15 at 11.15.48 PM.png…]()
-
+<img width="1280" alt="Screenshot 2024-07-15 at 11 15 48 PM" src="https://github.com/user-attachments/assets/dd0f0973-b383-4267-8725-0d54e4ca407d">
 
 ## 🚀 About Me
 Former Toshiba Mitsubishi-Electric Industrial Systems Corporation Intern | B.Tech in Computer Science (VIT Vellore) | Skills: LLM, DSA, MERN, AWS
